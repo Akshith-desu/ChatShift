@@ -1,0 +1,8 @@
+.env
+**/node_modules
+/.pnp
+.pnp.js
+**/firebaseConfig.js
+**/firebaseConfig.json
+node_modules
+firebaseConfig.json
